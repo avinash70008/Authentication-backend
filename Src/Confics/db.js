@@ -3,7 +3,7 @@ const mongoose  = require("mongoose");
 
 
 const connect  = () =>{
-   return mongoose .connect("mongodb+srv://ankitsharma:Ankit1020@cluster0.repsk.mongodb.net/pcmobile")
+   return mongoose .connect("mongodb+srv://avinash:avinash1@cluster0.tznxj.mongodb.net/authentication?retryWrites=true&w=majority")
 }
 
 
